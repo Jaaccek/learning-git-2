@@ -1,0 +1,11 @@
+
+.lyrics {
+    margin: 20px;
+    padding: 40px;
+    text-align: justify;
+    font-family: monospace;
+    background-color: lightgrey;
+    max-width: 400px;
+    border-radius: 40px
+  
+  }
