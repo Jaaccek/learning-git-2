@@ -1,0 +1,7 @@
+
+npm init -y
+touch .gitignore
+npm install --save-dev browser-sync
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
+npm install --save-dev html-validate
+npx html-validate zamiast npm install html-validate
